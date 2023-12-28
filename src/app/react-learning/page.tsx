@@ -4,7 +4,7 @@ import Displaydata from "@/components/Displaydata";
 
 function MyButton2() {
     return (
-        <button className="p-2 bg-orange-500 rounded-lg">I'm a Button2 </button>
+        <button className="p-2 bg-orange-500 rounded-lg">I am a Button2 </button>
     );
 };
 const ReactLearning = () => {
